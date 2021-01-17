@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import { axiosCall } from "./components/Main.js";
 import axios from "axios";
 
 import Search from "./components/Search.js";
